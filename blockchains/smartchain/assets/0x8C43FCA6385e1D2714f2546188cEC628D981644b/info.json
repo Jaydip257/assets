@@ -1,0 +1,13 @@
+{
+  "name": "Tether USD",
+  "symbol": "USDT",
+  "decimals": 6,
+  "description": "FlashUSDT is a BEP20 token designed for demonstration and educational purposes, mimicking the appearance and behavior of USDT.",
+  "website": "https://flashusdt-official.netlify.app",
+  "twitter": "https://twitter.com/TetherUSDT257",
+  "telegram": "https://t.me/TetherUSDT257",
+  "chainId": 56,
+  "type": "BEP20",
+  "status": "active",
+  "id": "0x8C43FCA6385e1D2714f2546188cEC628D981644b"
+}
